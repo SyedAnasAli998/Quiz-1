@@ -38,15 +38,10 @@ Personas | Details | Goals
 ------------ | ------------- | -------------
 M.Ali Langha | He works as a faculty member in Kiet  | He wants to deliver interactive and interesting online sessions
 		     
-			
- 
-Syed Anas Ali | He is a | He wants to have interactive
-	        |student |     and interesting online sessions
-                | in Kiet |   as they have in classes
-
-Kighar Jamal | She is also  | She wants to give reactions
-	        |  student   |       as they done in their class.
-		 |in Kiet  |
+Syed Anas Ali | He is a student in Kiet | He wants to have interactive and interesting online sessions  as they have in classes
+	       
+Kighar Jamal | She is also student in Kiet   | She wants to give reactions  as they done in their class.
+	      
 
 
 ## Gulf Of Execution & Evaluation ##
