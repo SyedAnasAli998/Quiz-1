@@ -41,12 +41,12 @@ M.Ali Langha | He works as a | He wants to deliver interactive
 			in Kiet 
  
 Syed Anas Ali | He is a | He wants to have interactive
-		     student     and interesting online sessions
-			in Kiet     as they have in classes
+	        |student |     and interesting online sessions
+                | in Kiet |   as they have in classes
 
 Kighar Jamal | She is also  | She wants to give reactions
-		    student          as they done in their class.
-			in Kiet  
+	        |  student   |       as they done in their class.
+		 |in Kiet  |
 
 
 ## Gulf Of Execution & Evaluation ##
