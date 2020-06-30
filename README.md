@@ -42,7 +42,7 @@ Syed Anas Ali | He is a student in Kiet | He wants to have interactive and inter
 
 3. ### Persona 3. Student 2 ###
 
-	  Personas | Details | Goals
+Personas | Details | Goals
 ------------ | ------------- | -------------	     
 Kighar Jamal | She is also student in Kiet   | She wants to give reactions  as they done in their class.
 	     
