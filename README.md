@@ -29,21 +29,23 @@ Following are the tasks which will user perform in our application.
 
 1. ### Persona 1. Instructor ###
 
-2. ### Persona 2. Student 1 ###
-
-3. ### Persona 3. Student 2 ###
-
-
 Personas | Details | Goals
 ------------ | ------------- | -------------
 M.Ali Langha | He works as a faculty member in Kiet  | He wants to deliver interactive and interesting online sessions
-		     
+
+2. ### Persona 2. Student 1 ###
+
+	
+Personas | Details | Goals
+------------ | ------------- | -------------	     
 Syed Anas Ali | He is a student in Kiet | He wants to have interactive and interesting online sessions  as they have in classes
-	       
+
+3. ### Persona 3. Student 2 ###
+
+	  Personas | Details | Goals
+------------ | ------------- | -------------	     
 Kighar Jamal | She is also student in Kiet   | She wants to give reactions  as they done in their class.
-	      
-
-
+	     
 ## Gulf Of Execution & Evaluation ##
 
 We provide best interface for the user as well as we provide security so that the intruder won't be able to have access in the class easily so you need authentic email address, the interactive sessions is the gap between the teacher and the students so to make this gap filled we provide online reactions and attractive chat room which provides the proper class room atmosphere which will ease the student and the teacher. 
