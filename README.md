@@ -36,9 +36,9 @@ Following are the tasks which will user perform in our application.
 
 Personas | Details | Goals
 ------------ | ------------- | -------------
-M.Ali Langha | He works as a | He wants to deliver interactive
-		    faculty member  and interesting online sessions
-			in Kiet 
+M.Ali Langha | He works as a faculty member in Kiet  | He wants to deliver interactive and interesting online sessions
+		     
+			
  
 Syed Anas Ali | He is a | He wants to have interactive
 	        |student |     and interesting online sessions
